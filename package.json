@@ -1,0 +1,20 @@
+{
+    "name": "telegraf-userblock",
+    "version": "1.0.0",
+    "description": "Handling if user blocked the bot middleware for Telegraf.",
+    "main": "lib/user-block.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "keywords": [
+        "telegram",
+        "telegraf",
+        "user block",
+        "middleware"
+    ],
+    "author": "Vyacheslav <slava021323@gmail.com>",
+    "license": "MIT"
+}
