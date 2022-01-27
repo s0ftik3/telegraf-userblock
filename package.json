@@ -3,6 +3,8 @@
     "version": "1.0.0",
     "description": "Handling if user blocked the bot middleware for Telegraf.",
     "main": "lib/user-block.js",
+    "homepage": "https://github.com/s0ftik3/telegraf-userblock#readme",
+    "repository": "https://github.com/s0ftik3/telegraf-userblock",
     "directories": {
         "lib": "lib"
     },
