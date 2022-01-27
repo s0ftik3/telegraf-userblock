@@ -1,6 +1,6 @@
 {
     "name": "telegraf-userblock",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Handling if user blocked the bot middleware for Telegraf.",
     "main": "lib/user-block.js",
     "homepage": "https://github.com/s0ftik3/telegraf-userblock#readme",
